@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "610520209942",
+    "project_id": "getbin-app",
+    "storage_bucket": "getbin-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610520209942:android:f8a8cba52c7bfe39bf7337",
+        "android_client_info": {
+          "package_name": "ru.pakarpichev.getbinapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610520209942-4mtg12qtnaqqq86rc8d695akgn4rk341.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.pakarpichev.getbinapplication",
+            "certificate_hash": "2e439068fc9cd51a789edd68bfbf0f2ac954acca"
+          }
+        },
+        {
+          "client_id": "610520209942-8aj906rn2ota1olbcg431ngiatmb09hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJaEN25ZWSdy8YbvuKnpGajGtAeJXYrDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610520209942-8aj906rn2ota1olbcg431ngiatmb09hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

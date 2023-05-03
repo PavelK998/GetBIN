@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/drawable_splash_image_1.png.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/drawable/splash_image_1.png"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-xhdpi_launcher_round.png.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-xhdpi/launcher_round.png"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-mdpi_launcher_round.png.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-mdpi/launcher_round.png"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/drawable_ic_launcher_background.xml.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-xxxhdpi_launcher.png.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-xxxhdpi/launcher.png"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-hdpi_launcher.png.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-hdpi/launcher.png"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/xml_data_extraction_rules.xml.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-anydpi-v26_launcher_round.xml.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-anydpi-v26/launcher_round.xml"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/drawable_logo_image.png.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/drawable/logo_image.png"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-xxhdpi_launcher.png.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-xxhdpi/launcher.png"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-anydpi-v26_launcher.xml.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-anydpi-v26/launcher.xml"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/xml_backup_rules.xml.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-xxxhdpi_launcher_round.png.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-xxxhdpi/launcher_round.png"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-mdpi_launcher.png.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-mdpi/launcher.png"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-xxhdpi_launcher_round.png.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-xxhdpi/launcher_round.png"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-xhdpi_launcher.png.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-xhdpi/launcher.png"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/drawable_launcher_foreground.xml.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/drawable/launcher_foreground.xml"
+    },
+    {
+        "merged": "ru.pakarpichev.getbinapplication.app-merged_res-63:/mipmap-hdpi_launcher_round.png.flat",
+        "source": "ru.pakarpichev.getbinapplication.app-main-65:/mipmap-hdpi/launcher_round.png"
+    }
+]
